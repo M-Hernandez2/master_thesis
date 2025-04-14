@@ -2,9 +2,17 @@
 Coastal agricultural tipping points of aquifer salinization due to climate-induced compound hazards
 
 
-A Thesis at The Pennsylvania State University
+A Thesis at The Pennsylvania State University, Department of Geosciences, 2025
 
-Madison Hernandez, Department of Geosciences, 2025
+Contributing Authors:
+
+Madison Hernandez - Dept of Geosciences
+
+Rachel Housego - Dept of Geosciences
+
+Raymond Najjar - Dept of Meteorology and Atmospheric Sciences
+
+Antonia Hadjimichael - Thesis Advisor, Dept of Geosciences
 
 
 ABSTRACT:
@@ -17,5 +25,5 @@ SEAWAT: https://pubs.usgs.gov/tm/tm6a22/pdf/tm6A22.pdf
 
 RECREATE MY FIGURES:
 1. ensure all python packages I import are installed
-2. create an anacoonda environment
+2. create an anaconda environment
 3. follow code in workflow folder
