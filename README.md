@@ -2,7 +2,7 @@
 Coastal agricultural tipping points of aquifer salinization due to climate-induced compound hazards
 
 
-A Thesis at The Pennsylvania State University, Department of Geosciences, 2025
+A Thesis at The Pennsylvania State University, 2025
 
 Contributing Authors:
 
