@@ -20,6 +20,9 @@ Saltwater intrusion into freshwater aquifers is a growing issue for coastlines a
 
 
 CONTRIBUTING SOFTWARE
+
+ArcGIS Pro: https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview
+
 SEAWAT: https://pubs.usgs.gov/tm/tm6a22/pdf/tm6A22.pdf
 
 
