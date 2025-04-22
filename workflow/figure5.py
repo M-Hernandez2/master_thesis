@@ -1,3 +1,6 @@
+#Author: Madison Hernandez
+#Purpose: calculate irrigation demand at each 69 irrigation well in study area for each projected model as well as the historic period
+#create figure comparing historic pumping calculation, projected pumping calculation, and historic pumping estimate from Hingst et al., 2024
 
 import numpy as np
 import pandas as pd
