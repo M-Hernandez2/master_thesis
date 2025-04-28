@@ -117,14 +117,14 @@ for key in well_dict:
 
 
 #save the dictionary to an excel file with each well being its own sheet
-with pd.ExcelWriter('C:\\Users\mjh7517\OneDrive - The Pennsylvania State University\Downloads\SEAWAT_model_inputs\well_irrigation_simulation_NEW.xlsx') as writer:
+with pd.ExcelWriter('..\NEW_inputs\well_irrigation_simulation_NEW.xlsx') as writer:
     for key, val in well_dict.items():
         df = pd.DataFrame(val)
         df.to_excel(writer, sheet_name=str(key), index=False)
 
 
 #use historic precip and temp values to plot on graphs like projected and see if in range of Bulletin 22 from DGS
-hist = pd.read_excel('C:\\Users\mjh7517\OneDrive - The Pennsylvania State University\histPT_irrigation.xlsx')
+hist = pd.read_excel('..\NEW_inputs\histPT_irrigation.xlsx')
 hist_temp = hist['t_avg']          #degrees C
 hist_rech = hist['rech']           #mm/yr
 
@@ -201,16 +201,16 @@ hist_df = pd.DataFrame(data=daily_pump, index=wells['well_id'], columns =['pumpi
 print(hist_df)
 
 #save to an excel file
-hist_df.to_excel('historic_thornthwaite_pumping.xlsx')
+hist_df.to_excel('..\NEW_inputs\historic_thornthwaite_pumping.xlsx')
 
 
 
 #use the excel sheets for plotting
-wells = ('C:\\Users\mjh7517\OneDrive - The Pennsylvania State University\Downloads\SEAWAT_model_inputs\well_irrigation_simulation_NEW.xlsx')
+wells = ('..\NEW_inputs\well_irrigation_simulation_NEW.xlsx')
 sheets = pd.ExcelFile(wells).sheet_names
 
 #import farm areas associated with each well to order the figure based on farm size
-irrig = pd.read_excel("C:\\Users\mjh7517\OneDrive - The Pennsylvania State University\Downloads\SEAWAT_model_inputs\wellsareas.xlsx",sheet_name='area_sort')
+irrig = pd.read_excel("..\NEW_inputs\wellsareas.xlsx",sheet_name='area_sort')
 irrig = pd.DataFrame(irrig)
 well_order = irrig['well_id']
 crops = irrig['crop']
