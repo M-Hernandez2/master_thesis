@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 
 #import precipitation and temperature data as well as wells (this is the NEW CLIMATE DATA)
-temp = pd.read_excel('..\NEW_inputs\t_sequence.xlsx')
+temp = pd.read_excel('..\NEW_inputs\\t_sequence.xlsx')
 precip = pd.read_excel('..\NEW_inputs\p_sequence.xlsx')
 wells = pd.read_excel('..\NEW_inputs\wellsareas_split.xlsx')
 
