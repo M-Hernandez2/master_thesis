@@ -15,9 +15,9 @@ base_model_path = '..\NEW_inputs\Base_Model'
 
 
 #### SET UP LOOP OVER ALL SIMULATION CASES
-for j in range(3, 4): #SLR scenarios   #Max range 5
+for j in range(0, 1): #SLR scenarios   #Max range 5
   slr_vals = slr_scenarios.iloc[:,j]  #Max range 100 made smaller to test
-  for k in range(100): #Precip + pumping scenarios
+  for k in range(1): #Precip + pumping scenarios
 
       #### CREATE CURRENT DIRECTORY ####
 
