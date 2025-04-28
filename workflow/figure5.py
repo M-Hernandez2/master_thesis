@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 
 
 #import precipitation and temperature data as well as wells (this is the NEW CLIMATE DATA)
-temp = pd.read_excel('..\NEW_inputs\t_timeseries.xlsx')
-precip = pd.read_excel('..\NEW_inputs\p_timeseries.xlsx')
+temp = pd.read_excel('..\NEW_inputs\t_sequence.xlsx')
+precip = pd.read_excel('..\NEW_inputs\p_sequence.xlsx')
 wells = pd.read_excel('..\NEW_inputs\wellsareas_split.xlsx')
 
 #convert precipitation to recharge by getting 13% of precip = recharge
