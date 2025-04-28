@@ -14,7 +14,7 @@ import matplotlib.colors as mcolors
 from matplotlib.colors import ListedColormap, BoundaryNorm
 
 #create new text file with all the results of the 500 runs for the last time step
-directory = "/storage/group/azh5924/default/Maddie/Final_Runs/Final_Runs/CONCENTRATIONS"
+directory = "../NEW_inputs/Final_Runs/CONCENTRATIONS"
 output_file = "whole_cl_output.txt"
 
 initial_conditions = {}
