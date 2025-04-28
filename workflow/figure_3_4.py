@@ -11,8 +11,8 @@ import chaospy as cp
 
 #retry from orig code but cleaner wand with new data
 ### HISTORICAL OBSERVED DATA ###
-n_P_hist = pd.read_excel("..\NEW_inputs\DoverClimate_Data.xlsx", sheet_name='noaa_P_hist')
-n_T_hist = pd.read_excel("..\NEW_inputs\DoverClimate_Data.xlsx",sheet_name='noaa_T_hist')
+n_P_hist = pd.read_excel("../NEW_inputs/DoverClimate_Data.xlsx", sheet_name='noaa_P_hist')
+n_T_hist = pd.read_excel("../NEW_inputs/DoverClimate_Data.xlsx",sheet_name='noaa_T_hist')
 
 hist_year = n_P_hist['YEAR']
 noaa_P_hist = n_P_hist['observed_p']
@@ -25,8 +25,8 @@ noaa_p_std = np.std(noaa_P_hist)
 noaa_t_std = np.std(noaa_T_hist)
 
 ### HISTORICAL MODEL DATA ###
-mod_P_hist = pd.read_excel("..\NEW_inputs\DoverClimate_Data.xlsx",sheet_name='P_historical')
-mod_T_hist = pd.read_excel("..\NEW_inputs\DoverClimate_Data.xlsx",sheet_name='T_historical')
+mod_P_hist = pd.read_excel("../NEW_inputs/DoverClimate_Data.xlsx",sheet_name='P_historical')
+mod_T_hist = pd.read_excel("../NEW_inputs/DoverClimate_Data.xlsx",sheet_name='T_historical')
 
 #data frame with means and stds for precip and temp historical models
 #get name of each model
@@ -66,16 +66,16 @@ for idx, row in hist_t_stats.iterrows():
 
 ### APPLY BIAS CORRECTION TO PROJECTED MODELS ###
 #precip projections
-ssp26_p = pd.read_excel("..\NEW_inputs\DoverClimate_Data.xlsx",sheet_name='Pssp2.6')
-ssp45_p = pd.read_excel("..\NEW_inputs\DoverClimate_Data.xlsx",sheet_name='Pssp4.5')
-ssp70_p = pd.read_excel("..\NEW_inputs\DoverClimate_Data.xlsx",sheet_name='Pssp7.0')
-ssp85_p = pd.read_excel("..\NEW_inputs\DoverClimate_Data.xlsx",sheet_name='Pssp8.5')
+ssp26_p = pd.read_excel("../NEW_inputs/DoverClimate_Data.xlsx",sheet_name='Pssp2.6')
+ssp45_p = pd.read_excel("../NEW_inputs/DoverClimate_Data.xlsx",sheet_name='Pssp4.5')
+ssp70_p = pd.read_excel("../NEW_inputs/DoverClimate_Data.xlsx",sheet_name='Pssp7.0')
+ssp85_p = pd.read_excel("../NEW_inputs/DoverClimate_Data.xlsx",sheet_name='Pssp8.5')
 
 #temp projections
-ssp26_t = pd.read_excel("..\NEW_inputs\DoverClimate_Data.xlsx",sheet_name='Tssp2.6')
-ssp45_t = pd.read_excel("..\NEW_inputs\DoverClimate_Data.xlsx",sheet_name='Tssp4.5')
-ssp70_t = pd.read_excel("..\NEW_inputs\DoverClimate_Data.xlsx",sheet_name='Tssp7.0')
-ssp85_t = pd.read_excel("..\NEW_inputs\DoverClimate_Data.xlsx",sheet_name='Tssp8.5')
+ssp26_t = pd.read_excel("../NEW_inputs/DoverClimate_Data.xlsx",sheet_name='Tssp2.6')
+ssp45_t = pd.read_excel("../NEW_inputs/DoverClimate_Data.xlsx",sheet_name='Tssp4.5')
+ssp70_t = pd.read_excel("../NEW_inputs/DoverClimate_Data.xlsx",sheet_name='Tssp7.0')
+ssp85_t = pd.read_excel("../NEW_inputs/DoverClimate_Data.xlsx",sheet_name='Tssp8.5')
 
 def align_proj(proj_df, stats_df):
     aligned_proj = proj_df.copy()
@@ -412,7 +412,7 @@ for i, row in enumerate(g.axes):
 plt.show()
 
 print('SAMPLE SPACE', sample_space_df)
-sample_space_df.to_excel('..\NEW_inputs\PT_mean_std.xlsx', index=False)
+sample_space_df.to_excel('../NEW_inputs/PT_mean_std.xlsx', index=False)
 
 #CREATE SYNTHETIC TIME SERIES FOR PRECIPITATION AND TEMP USING SAMPLE SPACE BASED ON MEANS AND STDS
 
@@ -436,8 +436,8 @@ for i, row in sample_space_df.iterrows():
     p_time_series[f'precip{i}'] = synthetic
     rech_timeseries[f'rech{i}'] = synthetic * 0.13
 
-p_time_series.to_excel(f'..\NEW_inputs\p_sequence.xlsx', index=False)
-rech_timeseries.to_excel(f'..\NEW_inputs\r_sequence.xlsx', index=False)
+p_time_series.to_excel(f'../NEW_inputs/p_sequence.xlsx', index=False)
+rech_timeseries.to_excel(f'../NEW_inputs/r_sequence.xlsx', index=False)
 
 #temperature
 t_time_series = pd.DataFrame(index=dates)
@@ -450,7 +450,7 @@ for i, row in sample_space_df.iterrows():
 
     t_time_series[f'temp{i}'] = synthetic
 
-t_time_series.to_excel(f'..\NEW_inputs\t_sequence.xlsx', index=False)
+t_time_series.to_excel(f'../NEW_inputs/t_sequence.xlsx', index=False)
 
 #show changes in sea level rise
 low = 0.4627106
