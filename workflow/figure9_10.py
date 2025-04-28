@@ -11,7 +11,7 @@ from matplotlib.colors import ListedColormap, BoundaryNorm
 import seaborn as sns
 from SALib.analyze import delta
 
-scenarios = pd.read_excel("C:\\Users\mjh7517\OneDrive - The Pennsylvania State University\Downloads\SEAWAT_model_inputs\PT_mean_std_SLR.xlsx", sheet_name='full')
+scenarios = pd.read_excel("../NEW_inputs/PT_mean_std_SLR.xlsx", sheet_name='full')
 
 #dictionary with system parameters and bounds
 problem = {'num_vars': 5,
