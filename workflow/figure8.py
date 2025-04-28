@@ -10,8 +10,8 @@ import matplotlib.colors as mcolors
 from matplotlib.colors import ListedColormap, BoundaryNorm
 
 #import data for well salinization for 16 vulnerable wells
-data_reduce = pd.read_excel("C:\\Users\mjh7517\OneDrive - The Pennsylvania State University\Downloads\combined_output_update.xlsx", sheet_name='reduced')
-well_reduce = pd.read_excel("C:\\Users\mjh7517\OneDrive - The Pennsylvania State University\Downloads\combined_output_update.xlsx", sheet_name='reduced_wells')
+data_reduce = pd.read_excel("../NEW_inputs/combined_output_update.xlsx", sheet_name='reduced')
+well_reduce = pd.read_excel("../NEW_inputs/combined_output_update.xlsx", sheet_name='reduced_wells')
 
 well_reduce = well_reduce.iloc[:, 0].tolist()
 print(well_reduce)
