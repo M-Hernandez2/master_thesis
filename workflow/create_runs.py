@@ -11,7 +11,7 @@ well_sims = pd.read_excel('..\NEW_inputs\well_irrigation_simulation_NEW.xlsx', s
 new_recharge = pd.read_excel('..\NEW_inputs\r_sequence.xlsx')
 slr_scenarios = pd.read_excel('..\NEW_inputs\sealevelrise_model_inputs.xlsx',sheet_name=0)
 #Path to reference model
-base_model_path = '..\NEW_inputs\BASE_MODEL'
+base_model_path = '..\NEW_inputs\Base_Model'
 
 
 #### SET UP LOOP OVER ALL SIMULATION CASES
