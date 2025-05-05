@@ -27,6 +27,6 @@ SEAWAT: https://pubs.usgs.gov/tm/tm6a22/pdf/tm6A22.pdf
 
 
 RECREATE MY FIGURES:
-1. ensure all python packages I import are installed
-2. create an anaconda environment
+1. download repository
+2. 2. set up dover_env environment to run python scripts
 3. follow code in workflow folder
