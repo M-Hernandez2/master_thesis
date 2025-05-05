@@ -1,0 +1,9 @@
+#Geometric Multigrid Solver: Input Instruction
+# [RCLOSE]    [IITER]   [HCLOSE]   [MXITER]
+      0.01         10       0.01         25
+#   [DAMP]   [IADAMP]  [IOUTGMG] [IUNITMHC]
+         1          0          1          6
+#    [ISM]      [ISC]      [DUP]     [DLOW] [CHGLIMIT]
+         0          0       0.75       0.25         10
+#  [RELAX]
+         1

@@ -1,0 +1,18 @@
+       163    -1E+30         0  [ILPFCB. HDRY. NPLPF]
+         0         0         0         0  [LAYTYP]
+         0         0         0         0  [LAYAVG]
+         1         1         1         1  [CHANI]
+         0         0         0         0  [LAYVKA]
+         0         0         0         0  [LAYWET]
+OPEN/CLOSE 'EastDoverSWI.LPF.hk1' 1 (FREE) -1  #HK for layer 1
+OPEN/CLOSE 'EastDoverSWI.LPF.vka1' 1 (FREE) -1  #VKA for layer 1
+OPEN/CLOSE 'EastDoverSWI.LPF.ss1' 1 (FREE) -1  #Ss (specific storage) for layer 1
+OPEN/CLOSE 'EastDoverSWI.LPF.hk2' 1 (FREE) -1  #HK for layer 2
+OPEN/CLOSE 'EastDoverSWI.LPF.vka2' 1 (FREE) -1  #VKA for layer 2
+OPEN/CLOSE 'EastDoverSWI.LPF.ss2' 1 (FREE) -1  #Ss (specific storage) for layer 2
+OPEN/CLOSE 'EastDoverSWI.LPF.hk3' 1 (FREE) -1  #HK for layer 3
+OPEN/CLOSE 'EastDoverSWI.LPF.vka3' 1 (FREE) -1  #VKA for layer 3
+OPEN/CLOSE 'EastDoverSWI.LPF.ss3' 1 (FREE) -1  #Ss (specific storage) for layer 3
+OPEN/CLOSE 'EastDoverSWI.LPF.hk4' 1 (FREE) -1  #HK for layer 4
+OPEN/CLOSE 'EastDoverSWI.LPF.vka4' 1 (FREE) -1  #VKA for layer 4
+OPEN/CLOSE 'EastDoverSWI.LPF.ss4' 1 (FREE) -1  #Ss (specific storage) for layer 4

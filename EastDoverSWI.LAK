@@ -1,0 +1,1147 @@
+         5       163
+     1.0E0
+  2.6889E0
+  3.8007E0
+  2.6736E0
+ 6.3805E-1
+ 8.3272E-1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp1.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp1.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp1.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp1.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1     0.0E0
+ 3.1759E-3 1.9165E-3   4.27E-1     0.0E0
+ 3.1759E-3 1.9165E-3   4.27E-1     0.0E0
+ 3.1759E-3 1.9165E-3   4.27E-1     0.0E0
+ 3.1759E-3 1.9165E-3   4.27E-1     0.0E0
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp2.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp2.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp2.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp2.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp3.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp3.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp3.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp3.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp4.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp4.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp4.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp4.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp5.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp5.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp5.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp5.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp6.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp6.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp6.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp6.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp7.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp7.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp7.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp7.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp8.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp8.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp8.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp8.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp9.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp9.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp9.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp9.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp10.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp10.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp10.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp10.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp11.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp11.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp11.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp11.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp12.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp12.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp12.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp12.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp13.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp13.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp13.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp13.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp14.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp14.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp14.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp14.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp15.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp15.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp15.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp15.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp16.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp16.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp16.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp16.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp17.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp17.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp17.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp17.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp18.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp18.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp18.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp18.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp19.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp19.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp19.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp19.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp20.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp20.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp20.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp20.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp21.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp21.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp21.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp21.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp22.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp22.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp22.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp22.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp23.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp23.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp23.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp23.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp24.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp24.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp24.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp24.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp25.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp25.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp25.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp25.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp26.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp26.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp26.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp26.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp27.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp27.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp27.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp27.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp28.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp28.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp28.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp28.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp29.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp29.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp29.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp29.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp30.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp30.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp30.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp30.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp31.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp31.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp31.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp31.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp32.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp32.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp32.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp32.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp33.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp33.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp33.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp33.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp34.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp34.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp34.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp34.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp35.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp35.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp35.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp35.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp36.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp36.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp36.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp36.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp37.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp37.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp37.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp37.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp38.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp38.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp38.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp38.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp39.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp39.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp39.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp39.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp40.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp40.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp40.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp40.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp41.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp41.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp41.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp41.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp42.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp42.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp42.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp42.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp43.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp43.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp43.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp43.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp44.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp44.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp44.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp44.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp45.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp45.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp45.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp45.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp46.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp46.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp46.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp46.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp47.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp47.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp47.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp47.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp48.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp48.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp48.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp48.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp49.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp49.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp49.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp49.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp50.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp50.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp50.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp50.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp51.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp51.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp51.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp51.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp52.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp52.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp52.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp52.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp53.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp53.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp53.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp53.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp54.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp54.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp54.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp54.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp55.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp55.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp55.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp55.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp56.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp56.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp56.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp56.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp57.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp57.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp57.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp57.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp58.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp58.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp58.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp58.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp59.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp59.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp59.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp59.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp60.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp60.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp60.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp60.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp61.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp61.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp61.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp61.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp62.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp62.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp62.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp62.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp63.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp63.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp63.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp63.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp64.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp64.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp64.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp64.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp65.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp65.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp65.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp65.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp66.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp66.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp66.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp66.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp67.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp67.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp67.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp67.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp68.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp68.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp68.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp68.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp69.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp69.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp69.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp69.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp70.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp70.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp70.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp70.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp71.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp71.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp71.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp71.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp72.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp72.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp72.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp72.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp73.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp73.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp73.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp73.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp74.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp74.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp74.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp74.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp75.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp75.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp75.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp75.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1
+         1         0         0
+OPEN/CLOSE 'EastDoverSWI.LAK.lkarr1' 1 (FREE) -1
+CONSTANT          0           
+CONSTANT          0           
+CONSTANT          0           
+OPEN/CLOSE 'EastDoverSWI.LAK.sp76.bdlknc1' 1 (FREE) -1  #Lake bed leakance for layer 1
+OPEN/CLOSE 'EastDoverSWI.LAK.sp76.bdlknc2' 1 (FREE) -1  #Lake bed leakance for layer 2
+OPEN/CLOSE 'EastDoverSWI.LAK.sp76.bdlknc3' 1 (FREE) -1  #Lake bed leakance for layer 3
+OPEN/CLOSE 'EastDoverSWI.LAK.sp76.bdlknc4' 1 (FREE) -1  #Lake bed leakance for layer 4
+         0
+ 3.1759E-3 1.9165E-3 4.2711E-1    8.62E1
+ 3.1759E-3 1.9165E-3   4.27E-1     8.8E1
+ 3.1759E-3 1.9165E-3   4.27E-1    8.66E1
+ 3.1759E-3 1.9165E-3   4.27E-1    7.61E1
+ 3.1759E-3 1.9165E-3   4.27E-1    6.65E1

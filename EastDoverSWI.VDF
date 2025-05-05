@@ -1,0 +1,5 @@
+               1                2              200                1 # MT3DRHOFLG, MFNADVFD, NSWTCPL, IWTable
+               0                0                                   # DENSEMIN, DENSEMAX
+          0.0001                                                    # DNSCRIT
+            1000              0.7                                   # DENSEREF, DRHODC(1)
+            0.01                                                    # FIRSTDT

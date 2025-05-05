@@ -1,0 +1,4 @@
+         0            [LEVEL]  #BiCGSTAB-P Matrix Solver: Input Instruction
+        50         25 [MXITER] [ITER1]
+         1       0.01 [DAMP]   [HCLOSE]
+      0.01          1 [RCLOSE] [RSCRIT]

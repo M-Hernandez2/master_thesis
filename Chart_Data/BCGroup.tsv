@@ -1,0 +1,2 @@
+SetFilter	SetFilter	RangeFilter	RangeFilter	RangeFilter	SetFilter	SetFilter	SetFilter	SetFilter	SetFilter	RangeFilter	Unit	Value	Value	Value	Value	Value	Value	Value	Value
+ObsName	ObsGroup	X[m]	Y[m]	Z[m]	ConductivityZone	Layer	GageType	GageMeasurement	Species	Time[day]	Unit	Calc.	Obs.	Residual	TargetResidual	NormalizedCalc.	NormalizedObs.	NormalizedResidual	NormalizedTargetResidual
