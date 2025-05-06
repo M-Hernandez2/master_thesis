@@ -11,7 +11,7 @@ well_sims = pd.read_excel('..\NEW_inputs\well_irrigation_simulation_NEW.xlsx', s
 new_recharge = pd.read_excel('..\NEW_inputs\r_sequence.xlsx')
 slr_scenarios = pd.read_excel('..\NEW_inputs\sealevelrise_model_inputs.xlsx',sheet_name=0)
 #Path to reference model
-base_model_path = '..\NEW_inputs\Base_Model'
+base_model_path = '..\'
 
 
 #### SET UP LOOP OVER ALL SIMULATION CASES
@@ -133,13 +133,8 @@ for j in range(0, 1): #SLR scenarios   #Max range 5
 
           # -- for each instance...
           instances = sorted(set(wel_DF["INSTANCE"].values))
-          # !!!!!!!!!!!!!!!!! NOTE !!!!!!!!!!!!!!!!!!!!!!
-          # in your .xlsx file, you have 75 instances for each well ID
-          # in your  .WEL file, you have 76 instances for each well ID
-          # -- I think these should be the same, so I'm dropping the 76th instance when writing to the .WEL file
-          # -- add another instance to our .xlsx file, then delete the [:-1] below
-          # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-          for inst in instances[:-1]:  # Do final check on this Rachel had to make -2 to get to run
+          
+          for inst in instances[:-1]:  
               # write the start of the instance
               simFile.write(wel_data_special_250_0)
 
