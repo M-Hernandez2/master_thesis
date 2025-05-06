@@ -27,6 +27,10 @@ SEAWAT: https://pubs.usgs.gov/tm/tm6a22/pdf/tm6A22.pdf
 
 
 RECREATE MY FIGURES:
-1. download repository
-2. 2. set up dover_env environment to run python scripts
-3. follow code in workflow folder
+This repository uses Git LFS to store large files. 
+Please make sure to install [Git LFS](https://git-lfs.github.com/) **before cloning** the repo:
+git lfs install
+git clone git@github.com:M-Hernandez2/master_thesis.git
+
+set up dover_env environment to run python scripts
+follow code in workflow folder
