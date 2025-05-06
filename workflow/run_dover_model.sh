@@ -1,8 +1,6 @@
 #!/bin/bash
-#SBATCH --mail-user=mjh7517@psu.edu
-#SBATCH --mail-type=ALL
 #SBATCH --partition=open
-#SBATCH --job-name=old_test
+#SBATCH --job-name=run_seawat_model
 #SBATCH --output=../output/%x.out
 #SBATCH --error=../error/%x.err
 #SBATCH --time=8:00:00
@@ -13,8 +11,7 @@
 set -e
 echo "Job started on $(hostname) at $(date)"
 
-cd /storage/group/azh5924/default/Maddie/New_Runs/old_run/SEAWAT
-
+cd ../
 #  execute
 ./swtv4 EastDoverSWI.SEAWAT.nam
  
