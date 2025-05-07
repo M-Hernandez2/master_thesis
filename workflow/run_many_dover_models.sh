@@ -12,7 +12,7 @@
 
 # (0) load in the appropriate modules
 module load parallel
-SH_STR="bash ../NEW_inputs/Final_Runs/worker.sh"
+SH_STR="bash ./worker.sh"
 
 
 # (1*) use this one when you've got the first one working
