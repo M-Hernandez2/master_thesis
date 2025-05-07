@@ -110,7 +110,7 @@ cmap = mcolors.ListedColormap(colors)
 norm = mcolors.BoundaryNorm(bounds, cmap.N)
 
 #read well locations
-wells = pd.read_excel("/storage/group/azh5924/default/Maddie/Final_Runs/Final_Runs/CONCENTRATIONS/pumpingwell_locations.xlsx")
+wells = pd.read_excel("../input_data/pumpingwell_locations.xlsx")
 well_row = wells.iloc[:, 1].values
 well_col = wells.iloc[:, 2].values
 well_ids = wells.iloc[:, 3].values
