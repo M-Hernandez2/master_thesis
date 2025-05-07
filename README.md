@@ -39,3 +39,5 @@ git clone git@github.com:M-Hernandez2/master_thesis.git
 set up dover_env environment to run python scripts
 
 follow code in workflow folder
+
+run the model after creating figure 5
