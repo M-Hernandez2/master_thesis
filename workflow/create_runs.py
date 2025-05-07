@@ -7,11 +7,11 @@ import pandas as pd
 import numpy as np
 
 #### Read in boundary condition files ####
-well_sims = pd.read_excel('..\NEW_inputs\well_irrigation_simulation_NEW.xlsx', sheet_name=None)
-new_recharge = pd.read_excel('..\NEW_inputs\r_sequence.xlsx')
-slr_scenarios = pd.read_excel('..\NEW_inputs\sealevelrise_model_inputs.xlsx',sheet_name=0)
+well_sims = pd.read_excel('../NEW_inputs/well_irrigation_simulation_NEW.xlsx', sheet_name=None)
+new_recharge = pd.read_excel('../NEW_inputs/r_sequence.xlsx')
+slr_scenarios = pd.read_excel('../NEW_inputs/sealevelrise_model_inputs.xlsx',sheet_name=0)
 #Path to reference model
-base_model_path = '..\'
+base_model_path = '../'
 
 
 #### SET UP LOOP OVER ALL SIMULATION CASES
@@ -22,7 +22,7 @@ for j in range(0, 1): #SLR scenarios   #Max range 5
       #### CREATE CURRENT DIRECTORY ####
 
       #Make new folder to save input files for first run
-      new_model_path = f'..\NEW_inputs\Final_Runs\RunSLR{(j+1)}P{(k+1)}'
+      new_model_path = f'../NEW_inputs/Final_Runs/RunSLR{(j+1)}P{(k+1)}'
       os.makedirs(new_model_path, exist_ok=True)
       ##
 
