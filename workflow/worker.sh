@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+#runs when you run the file: run_many_dover_models
 # get environment variables
 SLR_NUM=$1
 PR_NUM=$2
