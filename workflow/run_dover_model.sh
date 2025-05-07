@@ -8,6 +8,9 @@
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=20
 
+#can use this after running figure 5 and without running create runs
+#don't need to create runs because all the files for 1 run is in this repository already
+
 set -e
 echo "Job started on $(hostname) at $(date)"
 
