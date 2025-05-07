@@ -19,6 +19,6 @@ SH_STR="bash ./worker.sh"
 SLR_SEQ=$(seq 1 5)
 PR_SEQ=$(seq 1 100)
 SRUN_OPTS="--exclusive --nodes=1 --ntasks=1 --cpus-per-task=$SLURM_CPUS_PER_TASK"
-PARALLEL_OPTS="--joblog ../New_inputs/Final_Runs/logfile.log --delay 0.1auto --jobs $SLURM_CPUS_PER_TASK -N 1"	
+PARALLEL_OPTS="--joblog ../NEW_inputs/Final_Runs/logfile.log --delay 0.1auto --jobs $SLURM_CPUS_PER_TASK -N 1"	
 srun $SRUN_OPTS parallel $PARALLEL_OPTS $SH_STR ::: $SLR_SEQ ::: $PR_SEQ &
 wait
