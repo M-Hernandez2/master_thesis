@@ -14,7 +14,7 @@ import matplotlib.colors as mcolors
 from matplotlib.colors import ListedColormap, BoundaryNorm
 
 #create new text file with all the results of the 500 runs for the last time step
-directory = "../"
+directory = "../NEW_inputs/Final_Runs/CONCENTRATIONS/"
 output_file = "whole_cl_output.txt"
 
 initial_conditions = {}
@@ -32,7 +32,7 @@ with open(output_file, "w") as output:
             
             #read data
             ucn = bf.UcnFile(file_path)
-            times = ucn.get_times()  # Get all available times in days
+            times = ucn.get_times()  #get times in days
             
             #timestep 25 and 50 years 
             idx_25_years = np.argmin(np.abs(np.array(times) - 9125))
