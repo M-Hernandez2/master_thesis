@@ -1,7 +1,7 @@
 #!/bin/bash
 # (0) load in the appropriate modules, venvs
 module load anaconda
-conda activate my_envir
+conda activate dover_env
 
 
 # (1) create folders with all outputs of 500 runs
